@@ -17,8 +17,8 @@ const Hero = () => {
             <Button size="lg" variant="secondary" className="text-lg px-8 py-4">
               Registruotis pas gydytoją
             </Button>
-            <Button size="lg" variant="outline" className="text-lg px-8 py-4 border-white text-white hover:bg-white hover:text-primary">
-              Registruotis pas gydytoją
+            <Button size="lg" variant="outline" className="text-lg px-8 py-4 border-white text-primary bg-white hover:bg-primary hover:text-white">
+              Sužinokite daugiau
             </Button>
           </div>
 
