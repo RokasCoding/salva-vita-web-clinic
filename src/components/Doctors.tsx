@@ -9,7 +9,7 @@ const Doctors = () => {
       experience: "15 metų patirtis",
       education: "VU Medicinos fakultetas",
       languages: ["Lietuvių", "Anglų", "Rusų"],
-      image: "https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=300&h=300&fit=crop&crop=face"
+      image: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=300&h=300&fit=crop&crop=face"
     },
     {
       name: "Dr. Jonas Kazlauskas",
@@ -17,7 +17,7 @@ const Doctors = () => {
       experience: "12 metų patirtis",
       education: "LSMU Medicinos akademija",
       languages: ["Lietuvių", "Anglų"],
-      image: "https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=300&h=300&fit=crop&crop=face"
+      image: "https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=300&h=300&fit=crop&crop=face"
     },
     {
       name: "Dr. Rasa Jankienė",
@@ -25,7 +25,7 @@ const Doctors = () => {
       experience: "18 metų patirtis",
       education: "VU Medicinos fakultetas",
       languages: ["Lietuvių", "Anglų", "Vokiečių"],
-      image: "https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=300&h=300&fit=crop&crop=face"
+      image: "https://images.unsplash.com/photo-1594824489509-fcf7829ddeef?w=300&h=300&fit=crop&crop=face"
     }
   ];
 
