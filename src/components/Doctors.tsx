@@ -17,7 +17,7 @@ const Doctors = () => {
       experience: "12 metų patirtis",
       education: "LSMU Medicinos akademija",
       languages: ["Lietuvių", "Anglų"],
-      image: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=300&h=300&fit=crop&crop=face"
+      image: "https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?w=300&h=300&fit=crop&crop=face"
     },
     {
       name: "Dr. Rasa Jankienė",
@@ -25,7 +25,7 @@ const Doctors = () => {
       experience: "18 metų patirtis",
       education: "VU Medicinos fakultetas",
       languages: ["Lietuvių", "Anglų", "Vokiečių"],
-      image: "https://images.unsplash.com/photo-1594824489509-fcf7829ddeef?w=300&h=300&fit=crop&crop=face"
+      image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=300&h=300&fit=crop&crop=face"
     }
   ];
 

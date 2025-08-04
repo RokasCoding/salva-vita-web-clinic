@@ -34,13 +34,15 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center space-x-3">
-            <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center">
-              <svg className="w-8 h-8 text-white" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17h-2v-6H9v-2h2V9h2v2h2v2h-2v6z"/>
-              </svg>
+            <div className="w-12 h-12">
+              <img 
+                src="/lovable-uploads/c7b7be19-449f-444a-a4a8-f9b40a6861a7.png" 
+                alt="Salvavita Logo" 
+                className="w-full h-full object-contain"
+              />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-primary">Klinika Salvavita</h1>
+              <h1 className="text-2xl font-bold text-primary">Salvavita</h1>
               <p className="text-sm text-muted-foreground">Šeimos gydytojų klinika</p>
             </div>
           </div>

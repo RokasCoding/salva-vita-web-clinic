@@ -10,7 +10,7 @@ const Hero = () => {
             Profesionali sveikatos priežiūra
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-blue-100">
-            Prisirašykite prie klinkos Salvavita ir apdrauskite privatoruojų sveikatos draudimų, šeimos gydytojų medicinos paslaugos nekatinguoja.
+            Prisirašusiems prie klinkos Salvavita ir apdraustiems privalomuoju sveikatos draudimu, šeimos gydytojų medicinos paslaugos nekainuoja.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
@@ -18,7 +18,7 @@ const Hero = () => {
               Registruotis pas gydytoją
             </Button>
             <Button size="lg" variant="outline" className="text-lg px-8 py-4 border-white text-white hover:bg-white hover:text-primary">
-              Sužinoti daugiau
+              Registruotis pas gydytoją
             </Button>
           </div>
 
